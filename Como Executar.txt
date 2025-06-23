@@ -1,0 +1,7 @@
+Link do repositório no github: https://github.com/RafaelHSC2/Parallax
+
+Para executar, basta substituir os caminhos das imagens em caminhos como C:/Users/Rhac/...
+
+Tendo o seu npx create-react-app . executado.
+
+Basta importar os arquivos em seu VS Code e executar o "npm start"
